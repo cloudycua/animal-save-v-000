@@ -78,18 +78,21 @@ html {
 @media only screen and (min-width: 800px) and (max-width: 850px) {
   #dolphin {
     top: 100px;
+    transform: rotate(-0.11turn);
   }
 }
 
 @media only screen and (min-width: 750px) and (max-width: 800px) {
   #dolphin {
     top: 150px;
+    transform: rotate(-0.07turn);
   }
 }
 
 @media only screen and (min-width: 700px) and (max-width: 750px) {
   #dolphin {
     top: 225px;
+    transform: rotate(-0.03turn);
   }
 }
 

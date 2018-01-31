@@ -29,37 +29,42 @@ html {
 @media only screen and (min-width: 1070px) and (max-width: 1080px) {
   #dolphin {
     top: 250px;
-    transform: rotate(0.25turn);
+    transform: rotate(-0.03turn);
   }
 }
 
 @media only screen and (min-width: 1060px) and (max-width: 1070px) {
   #dolphin {
     top: 200px;
+    transform: rotate(-0.05turn);
   }
 }
 
 @media only screen and (min-width: 1050px) and (max-width: 1060px) {
   #dolphin {
     top: 150px;
+    transform: rotate(-0.07turn);
   }
 }
 
 @media only screen and (min-width: 1040px) and (max-width: 1050px) {
   #dolphin {
     top: 125px;
+    transform: rotate(-0.09turn);
   }
 }
 
 @media only screen and (min-width: 1030px) and (max-width: 1040px) {
   #dolphin {
     top: 100px;
+    transform: rotate(-0.11turn);
   }
 }
 
 @media only screen and (min-width: 1020px) and (max-width: 1030px) {
   #dolphin {
     top: 75px;
+    transform: rotate(-0.13turn);
   }
 }
 

@@ -62,7 +62,7 @@ html {
   }
 }
 
-@media only screen and (min-width: 850) and (max-width: 1020px) {
+@media only screen and (min-width: 850px) and (max-width: 1020px) {
   #dolphin {
     top: 50px;
   }

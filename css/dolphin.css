@@ -46,19 +46,19 @@ html {
 
 @media only screen and (min-width: 1040px) and (max-width: 1050px) {
   #dolphin {
-    top: 100px;
+    top: 125px;
   }
 }
 
 @media only screen and (min-width: 1030px) and (max-width: 1040px) {
   #dolphin {
-    top: 75px;
+    top: 100px;
   }
 }
 
 @media only screen and (min-width: 1020px) and (max-width: 1030px) {
   #dolphin {
-    top: 50px;
+    top: 75px;
   }
 }
 
@@ -82,12 +82,12 @@ html {
 
 @media only screen and (min-width: 700px) and (max-width: 750px) {
   #dolphin {
-    top: 200px;
+    top: 225px;
   }
 }
 
 @media only screen and (min-width: 642px) and (max-width: 700px) {
   #dolphin {
-    top: 250px;
+    top: 300px;
   }
 }

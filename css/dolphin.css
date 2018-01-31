@@ -31,3 +31,9 @@ html {
     top: 200px;
   }
 }
+
+@media only screen and (min-width: 1060px) and (max-width: 1070px) {
+  #dolphin {
+    top: 100px;
+  }
+}
